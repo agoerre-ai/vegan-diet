@@ -200,6 +200,7 @@ function costruisciSpesa() {
     const g = (dati.ricette || [])[i];
     if (!g) return;
     (dati.colazione || []).forEach(x => somma(x[0], x[1], x[2], x[3]));
+    (dati.merenda || []).forEach(x => somma(x[0], x[1], x[2], x[3]));
     (g[3] || []).forEach(x => somma(x[0], x[1], x[2], x[3]));
     (g[2] || []).forEach(p => (p[4] || []).forEach(v => {
       if (v.length > 2) v[2].forEach(x => somma(x[0], x[1], x[2], x[3]));
