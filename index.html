@@ -83,6 +83,13 @@
   .gaz button{flex:1;border:none;background:#eef4ef;color:#1a4d2e;font:inherit;font-size:12.5px;
               font-weight:600;padding:8px;border-radius:8px;cursor:pointer}
   .hidden{display:none}
+  .mac{display:flex;flex-wrap:wrap;gap:5px;margin-top:7px}
+  .mc{font-size:11.5px;font-weight:600;padding:2px 8px;border-radius:99px;background:#e3f1e6;color:#1a4d2e}
+  .mc.ko{background:#fbe3e3;color:#9b2c2c}
+  .mc.k{background:#eef1ee;color:#5d6b61}
+  .daymac{font-size:12.5px;color:#1a4d2e;margin-top:3px;font-weight:600}
+  .macsum{padding:12px 15px 14px;font-size:14px;line-height:1.55}
+  .macsum .fonti{font-size:11.5px;color:#7a877f;margin-top:8px;line-height:1.45}
 </style>
 </head>
 <body>
@@ -229,6 +236,50 @@ function costruisciSpesa() {
   return sezioni;
 }
 
+/* ---------------- check macronutrienti ---------------- */
+// I valori stanno nel JSON della settimana, chiave "macro": per ogni giorno due
+// vettori [kcal, proteine, carboidrati, grassi, fibra], più le soglie e le fonti.
+// Le settimane senza quella chiave si vedono come prima.
+function valutaMacro(v, s) {
+  const pc = v[2] * 4 / v[0], pg = v[3] * 9 / v[0];
+  const ok = {
+    p: v[1] >= s.proteine_pasto,
+    c: pc >= s.carboidrati[0] / 100 && pc <= s.carboidrati[1] / 100,
+    g: pg >= s.grassi[0] / 100 && pg <= s.grassi[1] / 100,
+    f: v[4] >= s.fibra_pasto
+  };
+  return { pc: pc, pg: pg, ok: ok, tutto: ok.p && ok.c && ok.g && ok.f };
+}
+function chipsMacro(v, s) {
+  const e = valutaMacro(v, s);
+  const c = (ok, t) => '<span class="mc' + (ok ? '' : ' ko') + '">' + (ok ? '✓ ' : '⚠ ') + t + '</span>';
+  return '<div class="mac">' +
+    c(e.ok.p, 'proteine ' + Math.round(v[1]) + ' g') +
+    c(e.ok.c, 'carboidrati ' + Math.round(e.pc * 100) + '%') +
+    c(e.ok.g, 'grassi ' + Math.round(e.pg * 100) + '%') +
+    c(e.ok.f, 'fibra ' + Math.round(v[4]) + ' g') +
+    '<span class="mc k">' + Math.round(v[0]) + ' kcal</span></div>';
+}
+function totaleGiorno(m, gi) {
+  return (m.pasti[gi] || []).reduce((a, v) => a.map((x, i) => x + v[i]), (m.extra || [0, 0, 0, 0, 0]).slice());
+}
+function riepilogoMacro(m) {
+  const s = m.soglie;
+  let n = 0, ok = 0;
+  m.pasti.forEach(g => g.forEach(v => { n++; if (valutaMacro(v, s).tutto) ok++; }));
+  const tot = m.pasti.map((g, i) => totaleGiorno(m, i));
+  const media = k => Math.round(tot.reduce((a, t) => a + t[k], 0) / tot.length);
+  const num = x => String(x).replace('.', ',');
+  return '<section><h2>Check macronutrienti</h2><div class="macsum">' +
+    '<b>' + ok + ' pasti su ' + n + '</b> rispettano tutte le soglie.<br>' +
+    'Media al giorno, con colazione e merenda: <b>' + media(0) + ' kcal</b> e <b>' + media(1) +
+    ' g di proteine</b> (obiettivo ' + s.proteine_giorno + ' g).' +
+    '<div class="fonti">Soglie per pasto: proteine ≥ ' + s.proteine_pasto + ' g · carboidrati ' +
+    s.carboidrati[0] + '–' + s.carboidrati[1] + '% · grassi ' + s.grassi[0] + '–' + s.grassi[1] +
+    '% · fibra ≥ ' + num(s.fibra_pasto) + ' g<br>' + (m.fonti || []).join(' · ') +
+    (m.nota ? '<br>' + m.nota : '') + '</div></div></section>';
+}
+
 /* ---------------- render ---------------- */
 function render() {
   vs.innerHTML = ''; vr.innerHTML = '';
@@ -265,16 +316,25 @@ function render() {
   vs.appendChild(n1);
   aggiornaGiorni();
 
-  (dati.ricette || []).forEach(([giorno, frutta, pasti]) => {
+  const mac = (dati.macro && Array.isArray(dati.macro.pasti) && dati.macro.soglie) ? dati.macro : null;
+  if (mac) vr.insertAdjacentHTML('beforeend', riepilogoMacro(mac));
+  (dati.ricette || []).forEach(([giorno, frutta, pasti], gi) => {
     const s = document.createElement('section');
+    let dm = '';
+    if (mac && mac.pasti[gi]) {
+      const t = totaleGiorno(mac, gi);
+      dm = '<div class="daymac">Giornata: ' + Math.round(t[0]) + ' kcal · proteine ' + Math.round(t[1]) +
+           ' g su ' + mac.soglie.proteine_giorno + '</div>';
+    }
     let html = '<div class="dayhead"><div class="dayname">' + giorno +
-               '</div><div class="dayfruit">' + frutta + '</div></div>';
-    pasti.forEach(([pasto, tit, tipo, mins, ingr, steps]) => {
+               '</div><div class="dayfruit">' + frutta + '</div>' + dm + '</div>';
+    pasti.forEach(([pasto, tit, tipo, mins, ingr, steps], pj) => {
+      const mc = (mac && mac.pasti[gi] && mac.pasti[gi][pj]) ? chipsMacro(mac.pasti[gi][pj], mac.soglie) : '';
       const ing = ingr.map(x => '<div class="ing"><b>' + x[0] + '</b><span>' + x[1] + '</span></div>').join('');
       const st = steps.map(x => '<li>' + x + '</li>').join('');
       html += '<details><summary><span><span class="meal">' + pasto + '</span>' +
               '<div class="title">' + tit + '</div>' +
-              '<div class="tag">' + tipo + ' · ' + mins + ' minuti</div></span>' +
+              '<div class="tag">' + tipo + ' · ' + mins + ' minuti</div>' + mc + '</span>' +
               '<span class="chev">▼</span></summary>' +
               '<div class="rbody"><div class="rsec">Ingredienti</div>' + ing +
               '<div class="rsec" style="margin-top:14px">Preparazione</div>' +
