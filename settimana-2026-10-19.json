@@ -1,6 +1,6 @@
 {
  "formato": 2,
- "titolo": "Settimana dal 19 al 25 ottobre 2026",
+ "titolo": "Piano vegano · 19–25 ottobre",
  "sottotitolo": "Pranzo e cena per 1 persona · colazione 200 g di bevanda di soia · merenda 50 g di yogurt di soia",
  "colazione": [
   [
@@ -18,291 +18,346 @@
    "g"
   ]
  ],
- "note": [
-  "Stagione di ottobre: zucca, funghi, cavolfiore, broccoli, verza, cavolo nero, cime di rapa, porri, finocchi; mele, pere, uva, melagrane, cachi.",
-  "Ceci e fagioli sempre precotti in barattolo, da sciacquare; le lenticchie secche non vogliono ammollo."
- ],
+ "note": {
+  "Lenticchie secche": "niente ammollo: 25 minuti di cottura",
+  "Tofu": "scegli tofu addizionato con solfato di calcio e pressalo dieci minuti prima di cuocerlo",
+  "Bevanda di soia fortificata": "controlla che sia fortificata con calcio, B12 e vitamina D",
+  "Pane integrale": "meglio se a lievitazione naturale",
+  "Semi di lino": "macinali poco prima di usarli",
+  "Tofu affumicato": "va rosolato in padella antiaderente, senza altro grasso"
+ },
  "dispensa": [
-  "Olio extra vergine di oliva",
-  "Cumino in polvere",
-  "Sale",
-  "Paprika affumicata",
-  "Prezzemolo",
-  "Pepe nero",
-  "Salvia",
-  "Peperoncino",
-  "Rosmarino",
-  "Salsa di soia",
-  "Aceto di mele",
-  "Alloro",
-  "Timo",
-  "Noce moscata",
-  "Curcuma"
+  [
+   "Dispensa e condimenti",
+   "Olio extravergine"
+  ],
+  [
+   "Dispensa e condimenti",
+   "Cumino in polvere"
+  ],
+  [
+   "Dispensa e condimenti",
+   "Sale iodato"
+  ],
+  [
+   "Dispensa e condimenti",
+   "Paprika affumicata"
+  ],
+  [
+   "Dispensa e condimenti",
+   "Prezzemolo"
+  ],
+  [
+   "Dispensa e condimenti",
+   "Pepe nero"
+  ],
+  [
+   "Dispensa e condimenti",
+   "Salvia"
+  ],
+  [
+   "Dispensa e condimenti",
+   "Peperoncino"
+  ],
+  [
+   "Dispensa e condimenti",
+   "Rosmarino"
+  ],
+  [
+   "Dispensa e condimenti",
+   "Salsa di soia"
+  ],
+  [
+   "Dispensa e condimenti",
+   "Aceto di mele"
+  ],
+  [
+   "Dispensa e condimenti",
+   "Alloro"
+  ],
+  [
+   "Dispensa e condimenti",
+   "Timo"
+  ],
+  [
+   "Dispensa e condimenti",
+   "Noce moscata"
+  ],
+  [
+   "Dispensa e condimenti",
+   "Curcuma"
+  ]
  ],
  "fisse": [
   [
-   "Vitamina B12",
-   "Integratore di B12 secondo le indicazioni del medico o del farmacista, ogni giorno."
+   "Da tenere d'occhio",
+   [
+    [
+     "Integratore di vitamina B12",
+     "25–100 µg al giorno oppure 2000 µg a settimana"
+    ],
+    [
+     "Acqua minerale ricca di calcio",
+     "oltre 300 mg per litro",
+     "la leva più semplice per arrivare a 1000 mg al giorno"
+    ]
+   ]
   ]
  ],
  "promemoria": [
   [
-   "Legumi in barattolo",
-   "Sciacqua sempre ceci e fagioli prima dell'uso.",
-   "ricette",
-   null
-  ],
-  [
-   "Tofu",
-   "Pressa il tofu per dieci minuti prima di cuocerlo in forno.",
-   "ricette",
+   "Giovedì",
+   "pressare il tofu per la cena",
+   "dieci minuti tra due canovacci, così si dora meglio",
    3
   ],
   [
-   "Lenticchie secche",
-   "Non serve ammollo: venticinque minuti di cottura.",
-   "ricette",
-   4
+   "Il giorno prima",
+   "tenere pronti i legumi in barattolo",
+   "sciacquarli e scolarli prima dell'uso",
+   null
   ]
  ],
  "ricette": [
   [
    "Lunedì 19 ottobre",
-   "1 mela, 1 pera e 100 g di uva",
+   "Frutta del giorno: 1 mela, 1 pera e 100 g di uva",
    [
-    "Pranzo",
-    "Zuppa di lenticchie rosse e zucca con crostoni",
-    "semplice",
-    25,
     [
+     "Pranzo",
+     "Zuppa di lenticchie rosse e zucca con crostoni",
+     "semplice",
+     25,
      [
-      "Lenticchie rosse secche",
-      "100 g",
       [
+       "Lenticchie rosse secche",
+       "100 g",
        [
-        "Legumi e derivati",
-        "Lenticchie rosse secche",
-        100,
-        "g"
+        [
+         "Legumi e derivati",
+         "Lenticchie rosse secche",
+         100,
+         "g"
+        ]
        ]
+      ],
+      [
+       "Zucca",
+       "250 g",
+       [
+        [
+         "Verdura",
+         "Zucca",
+         250,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Cipolla",
+       "1 piccola",
+       [
+        [
+         "Verdura",
+         "Cipolle",
+         1,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Carote",
+       "100 g",
+       [
+        [
+         "Verdura",
+         "Carote",
+         100,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Pane integrale a lievitazione naturale",
+       "120 g",
+       [
+        [
+         "Cereali e farine",
+         "Pane integrale",
+         120,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Olio extra vergine di oliva",
+       "2 cucchiai"
+      ],
+      [
+       "Semi di zucca",
+       "15 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Semi di zucca",
+         15,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Rucola (cruda)",
+       "50 g",
+       [
+        [
+         "Verdura",
+         "Rucola",
+         50,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Succo di limone",
+       "mezzo limone",
+       [
+        [
+         "Frutta",
+         "Limoni",
+         0.5,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Cumino in polvere",
+       "1 pizzico"
+      ],
+      [
+       "Sale",
+       "q.b."
       ]
      ],
      [
-      "Zucca",
-      "250 g",
-      [
-       [
-        "Verdura",
-        "Zucca",
-        250,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Cipolla",
-      "1 piccola",
-      [
-       [
-        "Verdura",
-        "Cipolle",
-        1,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Carote",
-      "100 g",
-      [
-       [
-        "Verdura",
-        "Carote",
-        100,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Pane integrale a lievitazione naturale",
-      "120 g",
-      [
-       [
-        "Cereali e farine",
-        "Pane integrale",
-        120,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Olio extra vergine di oliva",
-      "2 cucchiai"
-     ],
-     [
-      "Semi di zucca",
-      "15 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Semi di zucca",
-        15,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Rucola (cruda)",
-      "50 g",
-      [
-       [
-        "Verdura",
-        "Rucola",
-        50,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Succo di limone",
-      "mezzo limone",
-      [
-       [
-        "Frutta",
-        "Limoni",
-        0.5,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Cumino in polvere",
-      "1 pizzico"
-     ],
-     [
-      "Sale",
-      "q.b."
+      "Taglia la cipolla, la carota e la zucca a dadini. In una pentola scalda i due cucchiai d'olio e fai appassire la cipolla per cinque minuti con un pizzico di sale.",
+      "Aggiungi carota, zucca e cumino, mescola per due minuti, poi unisci le lenticchie rosse sciacquate e circa ottocento millilitri d'acqua calda. Le lenticchie rosse non vogliono ammollo e si sfanno da sole.",
+      "Cuoci coperto per venticinque minuti, finché la zucca è tenera; frulla metà della zuppa con il minipimer per renderla cremosa ma ancora rustica.",
+      "Tosta il pane a fette in forno o in padella. Servi la zuppa con i semi di zucca, i crostoni e la rucola condita con il succo di mezzo limone: la vitamina C cruda aiuta ad assorbire il ferro delle lenticchie."
      ]
     ],
     [
-     "Taglia la cipolla, la carota e la zucca a dadini. In una pentola scalda i due cucchiai d'olio e fai appassire la cipolla per cinque minuti con un pizzico di sale.",
-     "Aggiungi carota, zucca e cumino, mescola per due minuti, poi unisci le lenticchie rosse sciacquate e circa ottocento millilitri d'acqua calda. Le lenticchie rosse non vogliono ammollo e si sfanno da sole.",
-     "Cuoci coperto per venticinque minuti, finché la zucca è tenera; frulla metà della zuppa con il minipimer per renderla cremosa ma ancora rustica.",
-     "Tosta il pane a fette in forno o in padella. Servi la zuppa con i semi di zucca, i crostoni e la rucola condita con il succo di mezzo limone: la vitamina C cruda aiuta ad assorbire il ferro delle lenticchie."
-    ]
-   ],
-   [
-    "Cena",
-    "Pasta integrale con cavolfiore arrosto, tempeh e salsa al tahin",
-    "elaborata",
-    45,
-    [
+     "Cena",
+     "Pasta integrale con cavolfiore arrosto, tempeh e salsa al tahin",
+     "elaborata",
+     45,
      [
-      "Pasta integrale",
-      "130 g",
       [
+       "Pasta integrale",
+       "130 g",
        [
-        "Cereali e farine",
-        "Pasta integrale",
-        130,
-        "g"
+        [
+         "Cereali e farine",
+         "Pasta integrale",
+         130,
+         "g"
+        ]
        ]
+      ],
+      [
+       "Cavolfiore",
+       "300 g",
+       [
+        [
+         "Verdura",
+         "Cavolfiore",
+         300,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Tempeh",
+       "90 g",
+       [
+        [
+         "Legumi e derivati",
+         "Tempeh",
+         90,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Olio extra vergine di oliva",
+       "1 cucchiaio"
+      ],
+      [
+       "Tahin",
+       "10 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Tahin",
+         10,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Semi di lino macinati",
+       "10 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Semi di lino",
+         10,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Succo di limone",
+       "mezzo limone",
+       [
+        [
+         "Frutta",
+         "Limoni",
+         0.5,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Aglio",
+       "1 spicchio",
+       [
+        [
+         "Verdura",
+         "Aglio",
+         1,
+         "spicchi"
+        ]
+       ]
+      ],
+      [
+       "Paprika affumicata",
+       "1 cucchiaino"
+      ],
+      [
+       "Prezzemolo",
+       "un ciuffo"
+      ],
+      [
+       "Sale",
+       "q.b."
       ]
      ],
      [
-      "Cavolfiore",
-      "300 g",
-      [
-       [
-        "Verdura",
-        "Cavolfiore",
-        300,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Tempeh",
-      "90 g",
-      [
-       [
-        "Legumi e derivati",
-        "Tempeh",
-        90,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Olio extra vergine di oliva",
-      "1 cucchiaio"
-     ],
-     [
-      "Tahin",
-      "10 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Tahin",
-        10,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Semi di lino macinati",
-      "10 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Semi di lino",
-        10,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Succo di limone",
-      "mezzo limone",
-      [
-       [
-        "Frutta",
-        "Limoni",
-        0.5,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Aglio",
-      "1 spicchio",
-      [
-       [
-        "Verdura",
-        "Aglio",
-        1,
-        "spicchi"
-       ]
-      ]
-     ],
-     [
-      "Paprika affumicata",
-      "1 cucchiaino"
-     ],
-     [
-      "Prezzemolo",
-      "un ciuffo"
-     ],
-     [
-      "Sale",
-      "q.b."
+      "Accendi il forno a 220 °C. Dividi il cavolfiore in cimette, condiscile con un cucchiaio d'olio, la paprika e un pizzico di sale e infornale per venticinque minuti, finché sono dorate ai bordi.",
+      "Taglia il tempeh a dadini e rosolalo in una padella antiaderente senza altro grasso per otto minuti, finché diventa croccante: il suo grasso naturale basta.",
+      "Mescola il tahin con il succo di mezzo limone, l'aglio tritato, un pizzico di sale e qualche cucchiaio d'acqua di cottura fino a ottenere una salsa liscia, né troppo densa né troppo liquida.",
+      "Lessa la pasta in acqua salata per il tempo indicato sulla confezione, di solito dieci minuti, scolala e condiscila con la salsa. Unisci cavolfiore, tempeh, semi di lino macinati e prezzemolo e servi subito."
      ]
-    ],
-    [
-     "Accendi il forno a 220 °C. Dividi il cavolfiore in cimette, condiscile con un cucchiaio d'olio, la paprika e un pizzico di sale e infornale per venticinque minuti, finché sono dorate ai bordi.",
-     "Taglia il tempeh a dadini e rosolalo in una padella antiaderente senza altro grasso per otto minuti, finché diventa croccante: il suo grasso naturale basta.",
-     "Mescola il tahin con il succo di mezzo limone, l'aglio tritato, un pizzico di sale e qualche cucchiaio d'acqua di cottura fino a ottenere una salsa liscia, né troppo densa né troppo liquida.",
-     "Lessa la pasta in acqua salata per il tempo indicato sulla confezione, di solito dieci minuti, scolala e condiscila con la salsa. Unisci cavolfiore, tempeh, semi di lino macinati e prezzemolo e servi subito."
     ]
    ],
    [
@@ -328,237 +383,239 @@
   ],
   [
    "Martedì 20 ottobre",
-   "1 melagrana, 1 mela e 1 pera",
+   "Frutta del giorno: 1 melagrana, 1 mela e 1 pera",
    [
-    "Pranzo",
-    "Insalata di farro, cannellini e finocchi",
-    "semplice",
-    25,
     [
+     "Pranzo",
+     "Insalata di farro, cannellini e finocchi",
+     "semplice",
+     25,
      [
-      "Farro",
-      "100 g",
       [
+       "Farro",
+       "100 g",
        [
-        "Cereali e farine",
-        "Farro",
-        100,
-        "g"
+        [
+         "Cereali e farine",
+         "Farro",
+         100,
+         "g"
+        ]
        ]
+      ],
+      [
+       "Cannellini in barattolo",
+       "1 barattolo e mezzo (360 g sgocciolati)",
+       [
+        [
+         "Legumi e derivati",
+         "Cannellini in barattolo",
+         1.5,
+         "barattolo"
+        ]
+       ]
+      ],
+      [
+       "Finocchi",
+       "200 g",
+       [
+        [
+         "Verdura",
+         "Finocchi",
+         200,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Rucola",
+       "50 g",
+       [
+        [
+         "Verdura",
+         "Rucola",
+         50,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Olio extra vergine di oliva",
+       "1 cucchiaio"
+      ],
+      [
+       "Noci",
+       "20 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Noci",
+         20,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Mandorle",
+       "10 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Mandorle",
+         10,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Succo di limone",
+       "mezzo limone",
+       [
+        [
+         "Frutta",
+         "Limoni",
+         0.5,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Sale",
+       "q.b."
+      ],
+      [
+       "Pepe nero",
+       "q.b."
       ]
      ],
      [
-      "Cannellini in barattolo",
-      "1 barattolo e mezzo (360 g sgocciolati)",
-      [
-       [
-        "Legumi e derivati",
-        "Cannellini in barattolo",
-        1.5,
-        "barattolo"
-       ]
-      ]
-     ],
-     [
-      "Finocchi",
-      "200 g",
-      [
-       [
-        "Verdura",
-        "Finocchi",
-        200,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Rucola",
-      "50 g",
-      [
-       [
-        "Verdura",
-        "Rucola",
-        50,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Olio extra vergine di oliva",
-      "1 cucchiaio"
-     ],
-     [
-      "Noci",
-      "20 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Noci",
-        20,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Mandorle",
-      "10 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Mandorle",
-        10,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Succo di limone",
-      "mezzo limone",
-      [
-       [
-        "Frutta",
-        "Limoni",
-        0.5,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Sale",
-      "q.b."
-     ],
-     [
-      "Pepe nero",
-      "q.b."
+      "Sciacqua il farro e lessalo in acqua salata per venticinque minuti circa, poi scolalo e lascialo intiepidire.",
+      "Sciacqua i cannellini sotto l'acqua corrente per eliminare il liquido di conservazione. Affetta i finocchi sottilissimi, meglio se con la mandolina, e tieni da parte le barbe.",
+      "Emulsiona il succo di mezzo limone con il cucchiaio d'olio, sale e pepe. Mescola farro, cannellini, finocchi e rucola con il condimento.",
+      "Trita grossolanamente noci e mandorle e distribuiscile sopra al momento di servire, così restano croccanti. Il limone crudo qui porta la vitamina C che aiuta ad assorbire il ferro dei fagioli."
      ]
     ],
     [
-     "Sciacqua il farro e lessalo in acqua salata per venticinque minuti circa, poi scolalo e lascialo intiepidire.",
-     "Sciacqua i cannellini sotto l'acqua corrente per eliminare il liquido di conservazione. Affetta i finocchi sottilissimi, meglio se con la mandolina, e tieni da parte le barbe.",
-     "Emulsiona il succo di mezzo limone con il cucchiaio d'olio, sale e pepe. Mescola farro, cannellini, finocchi e rucola con il condimento.",
-     "Trita grossolanamente noci e mandorle e distribuiscile sopra al momento di servire, così restano croccanti. Il limone crudo qui porta la vitamina C che aiuta ad assorbire il ferro dei fagioli."
-    ]
-   ],
-   [
-    "Cena",
-    "Pizzoccheri con verza, patate e tofu affumicato",
-    "elaborata",
-    40,
-    [
+     "Cena",
+     "Pizzoccheri con verza, patate e tofu affumicato",
+     "elaborata",
+     40,
      [
-      "Pizzoccheri",
-      "100 g",
       [
+       "Pizzoccheri",
+       "100 g",
        [
-        "Cereali e farine",
-        "Pizzoccheri",
-        100,
-        "g"
+        [
+         "Cereali e farine",
+         "Pizzoccheri",
+         100,
+         "g"
+        ]
        ]
+      ],
+      [
+       "Patate",
+       "150 g",
+       [
+        [
+         "Verdura",
+         "Patate",
+         150,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Verza",
+       "250 g",
+       [
+        [
+         "Verdura",
+         "Verza",
+         250,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Tofu affumicato",
+       "150 g",
+       [
+        [
+         "Legumi e derivati",
+         "Tofu affumicato",
+         150,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Olio extra vergine di oliva",
+       "1 cucchiaio"
+      ],
+      [
+       "Semi di lino macinati",
+       "10 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Semi di lino",
+         10,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Carote (crude, grattugiate)",
+       "100 g",
+       [
+        [
+         "Verdura",
+         "Carote",
+         100,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Succo di limone",
+       "mezzo limone",
+       [
+        [
+         "Frutta",
+         "Limoni",
+         0.5,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Aglio",
+       "1 spicchio",
+       [
+        [
+         "Verdura",
+         "Aglio",
+         1,
+         "spicchi"
+        ]
+       ]
+      ],
+      [
+       "Salvia",
+       "4 foglie"
+      ],
+      [
+       "Sale",
+       "q.b."
       ]
      ],
      [
-      "Patate",
-      "150 g",
-      [
-       [
-        "Verdura",
-        "Patate",
-        150,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Verza",
-      "250 g",
-      [
-       [
-        "Verdura",
-        "Verza",
-        250,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Tofu affumicato",
-      "150 g",
-      [
-       [
-        "Legumi e derivati",
-        "Tofu affumicato",
-        150,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Olio extra vergine di oliva",
-      "1 cucchiaio"
-     ],
-     [
-      "Semi di lino macinati",
-      "10 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Semi di lino",
-        10,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Carote (crude, grattugiate)",
-      "100 g",
-      [
-       [
-        "Verdura",
-        "Carote",
-        100,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Succo di limone",
-      "mezzo limone",
-      [
-       [
-        "Frutta",
-        "Limoni",
-        0.5,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Aglio",
-      "1 spicchio",
-      [
-       [
-        "Verdura",
-        "Aglio",
-        1,
-        "spicchi"
-       ]
-      ]
-     ],
-     [
-      "Salvia",
-      "4 foglie"
-     ],
-     [
-      "Sale",
-      "q.b."
+      "Pela le patate e tagliale a cubetti piccoli; taglia la verza a striscioline. Porta a bollore abbondante acqua salata.",
+      "Cuoci prima le patate per cinque minuti, poi aggiungi la verza e i pizzoccheri e cuoci per altri dieci minuti circa, finché la pasta è al dente.",
+      "Nel frattempo in una padella scalda il cucchiaio d'olio con l'aglio e la salvia, poi rosola il tofu affumicato a dadini per sei minuti finché prende colore.",
+      "Scola i pizzoccheri con le verdure, mescolali al tofu e cospargi con i semi di lino macinati. Servi con le carote grattugiate crude condite con il succo di mezzo limone, per la vitamina C."
      ]
-    ],
-    [
-     "Pela le patate e tagliale a cubetti piccoli; taglia la verza a striscioline. Porta a bollore abbondante acqua salata.",
-     "Cuoci prima le patate per cinque minuti, poi aggiungi la verza e i pizzoccheri e cuoci per altri dieci minuti circa, finché la pasta è al dente.",
-     "Nel frattempo in una padella scalda il cucchiaio d'olio con l'aglio e la salvia, poi rosola il tofu affumicato a dadini per sei minuti finché prende colore.",
-     "Scola i pizzoccheri con le verdure, mescolali al tofu e cospargi con i semi di lino macinati. Servi con le carote grattugiate crude condite con il succo di mezzo limone, per la vitamina C."
     ]
    ],
    [
@@ -584,225 +641,227 @@
   ],
   [
    "Mercoledì 21 ottobre",
-   "2 cachi e 100 g di uva",
+   "Frutta del giorno: 2 cachi e 100 g di uva",
    [
-    "Pranzo",
-    "Bulgur con ceci, cavolo nero e sesamo",
-    "semplice",
-    25,
     [
+     "Pranzo",
+     "Bulgur con ceci, cavolo nero e sesamo",
+     "semplice",
+     25,
      [
-      "Bulgur",
-      "100 g",
       [
+       "Bulgur",
+       "100 g",
        [
-        "Cereali e farine",
-        "Bulgur",
-        100,
-        "g"
+        [
+         "Cereali e farine",
+         "Bulgur",
+         100,
+         "g"
+        ]
        ]
+      ],
+      [
+       "Ceci in barattolo",
+       "1 barattolo e mezzo (360 g sgocciolati)",
+       [
+        [
+         "Legumi e derivati",
+         "Ceci in barattolo",
+         1.5,
+         "barattolo"
+        ]
+       ]
+      ],
+      [
+       "Cavolo nero",
+       "200 g",
+       [
+        [
+         "Verdura",
+         "Cavolo nero",
+         200,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Carote (crude)",
+       "100 g",
+       [
+        [
+         "Verdura",
+         "Carote",
+         100,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Olio extra vergine di oliva",
+       "1 cucchiaio"
+      ],
+      [
+       "Sesamo",
+       "15 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Sesamo",
+         15,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Semi di lino macinati",
+       "10 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Semi di lino",
+         10,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Succo di limone",
+       "mezzo limone",
+       [
+        [
+         "Frutta",
+         "Limoni",
+         0.5,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Cumino in polvere",
+       "1 cucchiaino"
+      ],
+      [
+       "Sale",
+       "q.b."
       ]
      ],
      [
-      "Ceci in barattolo",
-      "1 barattolo e mezzo (360 g sgocciolati)",
-      [
-       [
-        "Legumi e derivati",
-        "Ceci in barattolo",
-        1.5,
-        "barattolo"
-       ]
-      ]
-     ],
-     [
-      "Cavolo nero",
-      "200 g",
-      [
-       [
-        "Verdura",
-        "Cavolo nero",
-        200,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Carote (crude)",
-      "100 g",
-      [
-       [
-        "Verdura",
-        "Carote",
-        100,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Olio extra vergine di oliva",
-      "1 cucchiaio"
-     ],
-     [
-      "Sesamo",
-      "15 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Sesamo",
-        15,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Semi di lino macinati",
-      "10 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Semi di lino",
-        10,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Succo di limone",
-      "mezzo limone",
-      [
-       [
-        "Frutta",
-        "Limoni",
-        0.5,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Cumino in polvere",
-      "1 cucchiaino"
-     ],
-     [
-      "Sale",
-      "q.b."
+      "Elimina la costa dura del cavolo nero e taglia le foglie a strisce. Cuocile in poca acqua salata per dieci minuti, poi scolale.",
+      "Versa il bulgur in una ciotola, coprilo con acqua bollente salata in pari volume e lascialo gonfiare coperto per dieci minuti; poi sgranalo con la forchetta.",
+      "Sciacqua i ceci e scaldali per cinque minuti in padella con il cucchiaio d'olio e il cumino.",
+      "Unisci bulgur, cavolo nero e ceci. Servi con carote crude grattugiate, il succo di mezzo limone, il sesamo e i semi di lino macinati: il limone aiuta l'assorbimento del ferro."
      ]
     ],
     [
-     "Elimina la costa dura del cavolo nero e taglia le foglie a strisce. Cuocile in poca acqua salata per dieci minuti, poi scolale.",
-     "Versa il bulgur in una ciotola, coprilo con acqua bollente salata in pari volume e lascialo gonfiare coperto per dieci minuti; poi sgranalo con la forchetta.",
-     "Sciacqua i ceci e scaldali per cinque minuti in padella con il cucchiaio d'olio e il cumino.",
-     "Unisci bulgur, cavolo nero e ceci. Servi con carote crude grattugiate, il succo di mezzo limone, il sesamo e i semi di lino macinati: il limone aiuta l'assorbimento del ferro."
-    ]
-   ],
-   [
-    "Cena",
-    "Pasta integrale con cime di rapa, ceci e mandorle",
-    "semplice",
-    25,
-    [
+     "Cena",
+     "Pasta integrale con cime di rapa, ceci e mandorle",
+     "semplice",
+     25,
      [
-      "Pasta integrale",
-      "90 g",
       [
+       "Pasta integrale",
+       "90 g",
        [
-        "Cereali e farine",
-        "Pasta integrale",
-        90,
-        "g"
+        [
+         "Cereali e farine",
+         "Pasta integrale",
+         90,
+         "g"
+        ]
        ]
+      ],
+      [
+       "Cime di rapa",
+       "250 g",
+       [
+        [
+         "Verdura",
+         "Cime di rapa",
+         250,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Ceci in barattolo",
+       "1 barattolo e mezzo (360 g sgocciolati)",
+       [
+        [
+         "Legumi e derivati",
+         "Ceci in barattolo",
+         1.5,
+         "barattolo"
+        ]
+       ]
+      ],
+      [
+       "Olio extra vergine di oliva",
+       "1 cucchiaio"
+      ],
+      [
+       "Mandorle",
+       "15 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Mandorle",
+         15,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Rucola (cruda)",
+       "40 g",
+       [
+        [
+         "Verdura",
+         "Rucola",
+         40,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Succo di limone",
+       "mezzo limone",
+       [
+        [
+         "Frutta",
+         "Limoni",
+         0.5,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Aglio",
+       "1 spicchio",
+       [
+        [
+         "Verdura",
+         "Aglio",
+         1,
+         "spicchi"
+        ]
+       ]
+      ],
+      [
+       "Peperoncino",
+       "un pizzico"
+      ],
+      [
+       "Sale",
+       "q.b."
       ]
      ],
      [
-      "Cime di rapa",
-      "250 g",
-      [
-       [
-        "Verdura",
-        "Cime di rapa",
-        250,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Ceci in barattolo",
-      "1 barattolo e mezzo (360 g sgocciolati)",
-      [
-       [
-        "Legumi e derivati",
-        "Ceci in barattolo",
-        1.5,
-        "barattolo"
-       ]
-      ]
-     ],
-     [
-      "Olio extra vergine di oliva",
-      "1 cucchiaio"
-     ],
-     [
-      "Mandorle",
-      "15 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Mandorle",
-        15,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Rucola (cruda)",
-      "40 g",
-      [
-       [
-        "Verdura",
-        "Rucola",
-        40,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Succo di limone",
-      "mezzo limone",
-      [
-       [
-        "Frutta",
-        "Limoni",
-        0.5,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Aglio",
-      "1 spicchio",
-      [
-       [
-        "Verdura",
-        "Aglio",
-        1,
-        "spicchi"
-       ]
-      ]
-     ],
-     [
-      "Peperoncino",
-      "un pizzico"
-     ],
-     [
-      "Sale",
-      "q.b."
+      "Pulisci le cime di rapa tenendo foglie e cimette tenere. Lessale per cinque minuti in acqua salata, poi pescale con la schiumarola e tieni l'acqua per la pasta.",
+      "Cuoci la pasta nella stessa acqua per il tempo indicato, di solito dieci minuti.",
+      "In padella scalda il cucchiaio d'olio con aglio e peperoncino, aggiungi le cime di rapa tritate e i ceci sciacquati e fai insaporire per cinque minuti.",
+      "Scola la pasta, saltala nella padella con un mestolo d'acqua di cottura, unisci le mandorle tritate e servi con la rucola condita con il succo di mezzo limone."
      ]
-    ],
-    [
-     "Pulisci le cime di rapa tenendo foglie e cimette tenere. Lessale per cinque minuti in acqua salata, poi pescale con la schiumarola e tieni l'acqua per la pasta.",
-     "Cuoci la pasta nella stessa acqua per il tempo indicato, di solito dieci minuti.",
-     "In padella scalda il cucchiaio d'olio con aglio e peperoncino, aggiungi le cime di rapa tritate e i ceci sciacquati e fai insaporire per cinque minuti.",
-     "Scola la pasta, saltala nella padella con un mestolo d'acqua di cottura, unisci le mandorle tritate e servi con la rucola condita con il succo di mezzo limone."
     ]
    ],
    [
@@ -822,229 +881,231 @@
   ],
   [
    "Giovedì 22 ottobre",
-   "1 pera, 1 mela e 100 g di uva",
+   "Frutta del giorno: 1 pera, 1 mela e 100 g di uva",
    [
-    "Pranzo",
-    "Crema di ceci e porri con crostoni",
-    "semplice",
-    30,
     [
+     "Pranzo",
+     "Crema di ceci e porri con crostoni",
+     "semplice",
+     30,
      [
-      "Ceci in barattolo",
-      "1 barattolo e mezzo (360 g sgocciolati)",
       [
+       "Ceci in barattolo",
+       "1 barattolo e mezzo (360 g sgocciolati)",
        [
-        "Legumi e derivati",
-        "Ceci in barattolo",
-        1.5,
-        "barattolo"
+        [
+         "Legumi e derivati",
+         "Ceci in barattolo",
+         1.5,
+         "barattolo"
+        ]
        ]
+      ],
+      [
+       "Porri",
+       "200 g",
+       [
+        [
+         "Verdura",
+         "Porri",
+         200,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Patate",
+       "150 g",
+       [
+        [
+         "Verdura",
+         "Patate",
+         150,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Pane integrale a lievitazione naturale",
+       "100 g",
+       [
+        [
+         "Cereali e farine",
+         "Pane integrale",
+         100,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Olio extra vergine di oliva",
+       "2 cucchiai"
+      ],
+      [
+       "Noci",
+       "20 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Noci",
+         20,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Rucola (cruda)",
+       "50 g",
+       [
+        [
+         "Verdura",
+         "Rucola",
+         50,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Succo di limone",
+       "mezzo limone",
+       [
+        [
+         "Frutta",
+         "Limoni",
+         0.5,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Rosmarino",
+       "un rametto"
+      ],
+      [
+       "Sale",
+       "q.b."
       ]
      ],
      [
-      "Porri",
-      "200 g",
-      [
-       [
-        "Verdura",
-        "Porri",
-        200,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Patate",
-      "150 g",
-      [
-       [
-        "Verdura",
-        "Patate",
-        150,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Pane integrale a lievitazione naturale",
-      "100 g",
-      [
-       [
-        "Cereali e farine",
-        "Pane integrale",
-        100,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Olio extra vergine di oliva",
-      "2 cucchiai"
-     ],
-     [
-      "Noci",
-      "20 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Noci",
-        20,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Rucola (cruda)",
-      "50 g",
-      [
-       [
-        "Verdura",
-        "Rucola",
-        50,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Succo di limone",
-      "mezzo limone",
-      [
-       [
-        "Frutta",
-        "Limoni",
-        0.5,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Rosmarino",
-      "un rametto"
-     ],
-     [
-      "Sale",
-      "q.b."
+      "Affetta i porri a rondelle e pela le patate a dadini. In una pentola scalda i due cucchiai d'olio e fai stufare i porri con un pizzico di sale per otto minuti.",
+      "Aggiungi le patate, i ceci sciacquati, il rosmarino e acqua calda a coprire. Cuoci per venti minuti circa.",
+      "Elimina il rosmarino e frulla tutto fino a una crema vellutata, allungando con acqua calda se serve.",
+      "Tosta il pane a fette. Servi la crema con le noci spezzettate e i crostoni, accompagnata da rucola condita con il succo di mezzo limone: la vitamina C cruda favorisce l'assorbimento del ferro dei ceci."
      ]
     ],
     [
-     "Affetta i porri a rondelle e pela le patate a dadini. In una pentola scalda i due cucchiai d'olio e fai stufare i porri con un pizzico di sale per otto minuti.",
-     "Aggiungi le patate, i ceci sciacquati, il rosmarino e acqua calda a coprire. Cuoci per venti minuti circa.",
-     "Elimina il rosmarino e frulla tutto fino a una crema vellutata, allungando con acqua calda se serve.",
-     "Tosta il pane a fette. Servi la crema con le noci spezzettate e i crostoni, accompagnata da rucola condita con il succo di mezzo limone: la vitamina C cruda favorisce l'assorbimento del ferro dei ceci."
-    ]
-   ],
-   [
-    "Cena",
-    "Tofu al forno in crosta di sesamo con riso rosso e cavolo cappuccio",
-    "elaborata",
-    45,
-    [
+     "Cena",
+     "Tofu al forno in crosta di sesamo con riso rosso e cavolo cappuccio",
+     "elaborata",
+     45,
      [
-      "Riso rosso",
-      "130 g",
       [
+       "Riso rosso",
+       "130 g",
        [
-        "Cereali e farine",
-        "Riso rosso",
-        130,
-        "g"
+        [
+         "Cereali e farine",
+         "Riso rosso",
+         130,
+         "g"
+        ]
        ]
+      ],
+      [
+       "Tofu",
+       "180 g",
+       [
+        [
+         "Legumi e derivati",
+         "Tofu",
+         180,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Sesamo",
+       "10 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Sesamo",
+         10,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Cavolo cappuccio",
+       "250 g",
+       [
+        [
+         "Verdura",
+         "Cavolo cappuccio",
+         250,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Carote (crude)",
+       "100 g",
+       [
+        [
+         "Verdura",
+         "Carote",
+         100,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Olio extra vergine di oliva",
+       "1 cucchiaio"
+      ],
+      [
+       "Semi di lino macinati",
+       "10 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Semi di lino",
+         10,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Succo di limone",
+       "mezzo limone",
+       [
+        [
+         "Frutta",
+         "Limoni",
+         0.5,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Salsa di soia",
+       "un cucchiaino"
+      ],
+      [
+       "Aceto di mele",
+       "un cucchiaio"
+      ],
+      [
+       "Sale",
+       "q.b."
       ]
      ],
      [
-      "Tofu",
-      "180 g",
-      [
-       [
-        "Legumi e derivati",
-        "Tofu",
-        180,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Sesamo",
-      "10 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Sesamo",
-        10,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Cavolo cappuccio",
-      "250 g",
-      [
-       [
-        "Verdura",
-        "Cavolo cappuccio",
-        250,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Carote (crude)",
-      "100 g",
-      [
-       [
-        "Verdura",
-        "Carote",
-        100,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Olio extra vergine di oliva",
-      "1 cucchiaio"
-     ],
-     [
-      "Semi di lino macinati",
-      "10 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Semi di lino",
-        10,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Succo di limone",
-      "mezzo limone",
-      [
-       [
-        "Frutta",
-        "Limoni",
-        0.5,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Salsa di soia",
-      "un cucchiaino"
-     ],
-     [
-      "Aceto di mele",
-      "un cucchiaio"
-     ],
-     [
-      "Sale",
-      "q.b."
+      "Accendi il forno a 200 °C. Scola il tofu, pressalo per dieci minuti tra due canovacci per eliminare l'acqua e taglialo in fette spesse un centimetro.",
+      "Spennella le fette con la salsa di soia diluita in un cucchiaino d'acqua, passale nel sesamo e disponile su una teglia con carta forno. Cuoci per venti minuti, girandole a metà cottura.",
+      "Lessa il riso rosso in acqua salata per trenta minuti circa e scolalo. Condiscilo con il cucchiaio d'olio.",
+      "Affetta il cappuccio e le carote sottili e condiscili con aceto di mele, il succo di mezzo limone, i semi di lino e un pizzico di sale: questa insalata cruda porta la vitamina C. Servi tutto insieme."
      ]
-    ],
-    [
-     "Accendi il forno a 200 °C. Scola il tofu, pressalo per dieci minuti tra due canovacci per eliminare l'acqua e taglialo in fette spesse un centimetro.",
-     "Spennella le fette con la salsa di soia diluita in un cucchiaino d'acqua, passale nel sesamo e disponile su una teglia con carta forno. Cuoci per venti minuti, girandole a metà cottura.",
-     "Lessa il riso rosso in acqua salata per trenta minuti circa e scolalo. Condiscilo con il cucchiaio d'olio.",
-     "Affetta il cappuccio e le carote sottili e condiscili con aceto di mele, il succo di mezzo limone, i semi di lino e un pizzico di sale: questa insalata cruda porta la vitamina C. Servi tutto insieme."
     ]
    ],
    [
@@ -1070,265 +1131,267 @@
   ],
   [
    "Venerdì 23 ottobre",
-   "1 cachi, 1 mela e 1 pera",
+   "Frutta del giorno: 1 cachi, 1 mela e 1 pera",
    [
-    "Pranzo",
-    "Farro con borlotti e verza stufata",
-    "semplice",
-    30,
     [
+     "Pranzo",
+     "Farro con borlotti e verza stufata",
+     "semplice",
+     30,
      [
-      "Farro",
-      "100 g",
       [
+       "Farro",
+       "100 g",
        [
-        "Cereali e farine",
-        "Farro",
-        100,
-        "g"
+        [
+         "Cereali e farine",
+         "Farro",
+         100,
+         "g"
+        ]
        ]
+      ],
+      [
+       "Borlotti in barattolo",
+       "1 barattolo e mezzo (360 g sgocciolati)",
+       [
+        [
+         "Legumi e derivati",
+         "Borlotti in barattolo",
+         1.5,
+         "barattolo"
+        ]
+       ]
+      ],
+      [
+       "Verza",
+       "250 g",
+       [
+        [
+         "Verdura",
+         "Verza",
+         250,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Olio extra vergine di oliva",
+       "1 cucchiaio"
+      ],
+      [
+       "Noci",
+       "20 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Noci",
+         20,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Rucola (cruda)",
+       "50 g",
+       [
+        [
+         "Verdura",
+         "Rucola",
+         50,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Succo di limone",
+       "mezzo limone",
+       [
+        [
+         "Frutta",
+         "Limoni",
+         0.5,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Aglio",
+       "1 spicchio",
+       [
+        [
+         "Verdura",
+         "Aglio",
+         1,
+         "spicchi"
+        ]
+       ]
+      ],
+      [
+       "Rosmarino",
+       "un rametto"
+      ],
+      [
+       "Sale",
+       "q.b."
       ]
      ],
      [
-      "Borlotti in barattolo",
-      "1 barattolo e mezzo (360 g sgocciolati)",
-      [
-       [
-        "Legumi e derivati",
-        "Borlotti in barattolo",
-        1.5,
-        "barattolo"
-       ]
-      ]
-     ],
-     [
-      "Verza",
-      "250 g",
-      [
-       [
-        "Verdura",
-        "Verza",
-        250,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Olio extra vergine di oliva",
-      "1 cucchiaio"
-     ],
-     [
-      "Noci",
-      "20 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Noci",
-        20,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Rucola (cruda)",
-      "50 g",
-      [
-       [
-        "Verdura",
-        "Rucola",
-        50,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Succo di limone",
-      "mezzo limone",
-      [
-       [
-        "Frutta",
-        "Limoni",
-        0.5,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Aglio",
-      "1 spicchio",
-      [
-       [
-        "Verdura",
-        "Aglio",
-        1,
-        "spicchi"
-       ]
-      ]
-     ],
-     [
-      "Rosmarino",
-      "un rametto"
-     ],
-     [
-      "Sale",
-      "q.b."
+      "Lessa il farro in acqua salata per venticinque minuti e scolalo.",
+      "Taglia la verza a listarelle. In una padella ampia scalda il cucchiaio d'olio con aglio e rosmarino, aggiungi la verza e stufala per quindici minuti con un goccio d'acqua, finché è morbida.",
+      "Unisci i borlotti sciacquati e il farro e fai insaporire cinque minuti.",
+      "Servi con le noci tritate e la rucola condita con il succo di mezzo limone: così hai vitamina C cruda accanto ai fagioli."
      ]
     ],
     [
-     "Lessa il farro in acqua salata per venticinque minuti e scolalo.",
-     "Taglia la verza a listarelle. In una padella ampia scalda il cucchiaio d'olio con aglio e rosmarino, aggiungi la verza e stufala per quindici minuti con un goccio d'acqua, finché è morbida.",
-     "Unisci i borlotti sciacquati e il farro e fai insaporire cinque minuti.",
-     "Servi con le noci tritate e la rucola condita con il succo di mezzo limone: così hai vitamina C cruda accanto ai fagioli."
-    ]
-   ],
-   [
-    "Cena",
-    "Pasta integrale con ragù di lenticchie e funghi",
-    "elaborata",
-    50,
-    [
+     "Cena",
+     "Pasta integrale con ragù di lenticchie e funghi",
+     "elaborata",
+     50,
      [
-      "Pasta integrale",
-      "100 g",
       [
+       "Pasta integrale",
+       "100 g",
        [
-        "Cereali e farine",
-        "Pasta integrale",
-        100,
-        "g"
+        [
+         "Cereali e farine",
+         "Pasta integrale",
+         100,
+         "g"
+        ]
        ]
+      ],
+      [
+       "Lenticchie secche",
+       "80 g",
+       [
+        [
+         "Legumi e derivati",
+         "Lenticchie secche",
+         80,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Funghi",
+       "200 g",
+       [
+        [
+         "Verdura",
+         "Funghi",
+         200,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Passata di pomodoro",
+       "100 g",
+       [
+        [
+         "Dispensa e condimenti",
+         "Passata di pomodoro",
+         100,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Cipolla",
+       "1 piccola",
+       [
+        [
+         "Verdura",
+         "Cipolle",
+         1,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Sedano",
+       "una costa",
+       [
+        [
+         "Verdura",
+         "Sedano",
+         1,
+         "coste"
+        ]
+       ]
+      ],
+      [
+       "Carote",
+       "60 g",
+       [
+        [
+         "Verdura",
+         "Carote",
+         60,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Olio extra vergine di oliva",
+       "1 cucchiaio"
+      ],
+      [
+       "Noci",
+       "20 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Noci",
+         20,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Rucola (cruda)",
+       "50 g",
+       [
+        [
+         "Verdura",
+         "Rucola",
+         50,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Succo di limone",
+       "mezzo limone",
+       [
+        [
+         "Frutta",
+         "Limoni",
+         0.5,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Alloro",
+       "1 foglia"
+      ],
+      [
+       "Timo",
+       "q.b."
+      ],
+      [
+       "Sale",
+       "q.b."
       ]
      ],
      [
-      "Lenticchie secche",
-      "80 g",
-      [
-       [
-        "Legumi e derivati",
-        "Lenticchie secche",
-        80,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Funghi",
-      "200 g",
-      [
-       [
-        "Verdura",
-        "Funghi",
-        200,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Passata di pomodoro",
-      "100 g",
-      [
-       [
-        "Dispensa e condimenti",
-        "Passata di pomodoro",
-        100,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Cipolla",
-      "1 piccola",
-      [
-       [
-        "Verdura",
-        "Cipolle",
-        1,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Sedano",
-      "una costa",
-      [
-       [
-        "Verdura",
-        "Sedano",
-        1,
-        "coste"
-       ]
-      ]
-     ],
-     [
-      "Carote",
-      "60 g",
-      [
-       [
-        "Verdura",
-        "Carote",
-        60,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Olio extra vergine di oliva",
-      "1 cucchiaio"
-     ],
-     [
-      "Noci",
-      "20 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Noci",
-        20,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Rucola (cruda)",
-      "50 g",
-      [
-       [
-        "Verdura",
-        "Rucola",
-        50,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Succo di limone",
-      "mezzo limone",
-      [
-       [
-        "Frutta",
-        "Limoni",
-        0.5,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Alloro",
-      "1 foglia"
-     ],
-     [
-      "Timo",
-      "q.b."
-     ],
-     [
-      "Sale",
-      "q.b."
+      "Trita finemente cipolla, sedano e carota e falli appassire nel cucchiaio d'olio con l'alloro per dieci minuti a fuoco dolce.",
+      "Aggiungi i funghi a pezzetti, alza la fiamma e cuocili per cinque minuti finché perdono l'acqua. Unisci le lenticchie sciacquate, la passata e duecento millilitri d'acqua.",
+      "Cuoci coperto per venticinque minuti, finché le lenticchie sono tenere (non serve ammollo), aggiungendo acqua se asciuga troppo. Regola di sale e unisci il timo.",
+      "Lessa la pasta per il tempo indicato, scolala e condiscila con il ragù. Servi con le noci tritate e la rucola con il succo di mezzo limone, che porta vitamina C cruda."
      ]
-    ],
-    [
-     "Trita finemente cipolla, sedano e carota e falli appassire nel cucchiaio d'olio con l'alloro per dieci minuti a fuoco dolce.",
-     "Aggiungi i funghi a pezzetti, alza la fiamma e cuocili per cinque minuti finché perdono l'acqua. Unisci le lenticchie sciacquate, la passata e duecento millilitri d'acqua.",
-     "Cuoci coperto per venticinque minuti, finché le lenticchie sono tenere (non serve ammollo), aggiungendo acqua se asciuga troppo. Regola di sale e unisci il timo.",
-     "Lessa la pasta per il tempo indicato, scolala e condiscila con il ragù. Servi con le noci tritate e la rucola con il succo di mezzo limone, che porta vitamina C cruda."
     ]
    ],
    [
@@ -1354,245 +1417,247 @@
   ],
   [
    "Sabato 24 ottobre",
-   "1 melagrana, 1 pera e 100 g di uva",
+   "Frutta del giorno: 1 melagrana, 1 pera e 100 g di uva",
    [
-    "Pranzo",
-    "Polpette di ceci e spinaci al forno con patate arrosto",
-    "elaborata",
-    50,
     [
+     "Pranzo",
+     "Polpette di ceci e spinaci al forno con patate arrosto",
+     "elaborata",
+     50,
      [
-      "Ceci in barattolo",
-      "1 barattolo e mezzo (360 g sgocciolati)",
       [
+       "Ceci in barattolo",
+       "1 barattolo e mezzo (360 g sgocciolati)",
        [
-        "Legumi e derivati",
-        "Ceci in barattolo",
-        1.5,
-        "barattolo"
+        [
+         "Legumi e derivati",
+         "Ceci in barattolo",
+         1.5,
+         "barattolo"
+        ]
        ]
+      ],
+      [
+       "Spinaci",
+       "200 g",
+       [
+        [
+         "Verdura",
+         "Spinaci",
+         200,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Patate",
+       "400 g",
+       [
+        [
+         "Verdura",
+         "Patate",
+         400,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Pangrattato (legante)",
+       "30 g",
+       [
+        [
+         "Cereali e farine",
+         "Pangrattato",
+         30,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Olio extra vergine di oliva",
+       "2 cucchiai"
+      ],
+      [
+       "Sesamo",
+       "15 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Sesamo",
+         15,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Semi di lino macinati",
+       "10 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Semi di lino",
+         10,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Cavolo cappuccio (crudo)",
+       "100 g",
+       [
+        [
+         "Verdura",
+         "Cavolo cappuccio",
+         100,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Succo di limone",
+       "mezzo limone",
+       [
+        [
+         "Frutta",
+         "Limoni",
+         0.5,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Cumino in polvere",
+       "1 cucchiaino"
+      ],
+      [
+       "Prezzemolo",
+       "un ciuffo"
+      ],
+      [
+       "Sale",
+       "q.b."
       ]
      ],
      [
-      "Spinaci",
-      "200 g",
-      [
-       [
-        "Verdura",
-        "Spinaci",
-        200,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Patate",
-      "400 g",
-      [
-       [
-        "Verdura",
-        "Patate",
-        400,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Pangrattato (legante)",
-      "30 g",
-      [
-       [
-        "Cereali e farine",
-        "Pangrattato",
-        30,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Olio extra vergine di oliva",
-      "2 cucchiai"
-     ],
-     [
-      "Sesamo",
-      "15 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Sesamo",
-        15,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Semi di lino macinati",
-      "10 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Semi di lino",
-        10,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Cavolo cappuccio (crudo)",
-      "100 g",
-      [
-       [
-        "Verdura",
-        "Cavolo cappuccio",
-        100,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Succo di limone",
-      "mezzo limone",
-      [
-       [
-        "Frutta",
-        "Limoni",
-        0.5,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Cumino in polvere",
-      "1 cucchiaino"
-     ],
-     [
-      "Prezzemolo",
-      "un ciuffo"
-     ],
-     [
-      "Sale",
-      "q.b."
+      "Accendi il forno a 200 °C. Taglia le patate a spicchi, condiscile con un cucchiaio d'olio e sale e infornale per quaranta minuti, girandole a metà.",
+      "Cuoci gli spinaci in padella con il loro stesso fumo per cinque minuti, strizzali bene e tritali.",
+      "Frulla grossolanamente i ceci sciacquati con gli spinaci, i semi di lino, il cumino, il prezzemolo, il pangrattato e sale. Forma otto polpette, passale nel sesamo e adagiale su carta forno unte con il secondo cucchiaio d'olio.",
+      "Cuoci le polpette per venti minuti, girandole una volta. Servi con le patate e con il cappuccio crudo a listarelle, condito con il succo di mezzo limone per la vitamina C."
      ]
     ],
     [
-     "Accendi il forno a 200 °C. Taglia le patate a spicchi, condiscile con un cucchiaio d'olio e sale e infornale per quaranta minuti, girandole a metà.",
-     "Cuoci gli spinaci in padella con il loro stesso fumo per cinque minuti, strizzali bene e tritali.",
-     "Frulla grossolanamente i ceci sciacquati con gli spinaci, i semi di lino, il cumino, il prezzemolo, il pangrattato e sale. Forma otto polpette, passale nel sesamo e adagiale su carta forno unte con il secondo cucchiaio d'olio.",
-     "Cuoci le polpette per venti minuti, girandole una volta. Servi con le patate e con il cappuccio crudo a listarelle, condito con il succo di mezzo limone per la vitamina C."
-    ]
-   ],
-   [
-    "Cena",
-    "Pasta integrale alla zucca con tofu rosolato",
-    "semplice",
-    30,
-    [
+     "Cena",
+     "Pasta integrale alla zucca con tofu rosolato",
+     "semplice",
+     30,
      [
-      "Pasta integrale",
-      "120 g",
       [
+       "Pasta integrale",
+       "120 g",
        [
-        "Cereali e farine",
-        "Pasta integrale",
-        120,
-        "g"
+        [
+         "Cereali e farine",
+         "Pasta integrale",
+         120,
+         "g"
+        ]
        ]
+      ],
+      [
+       "Zucca",
+       "250 g",
+       [
+        [
+         "Verdura",
+         "Zucca",
+         250,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Tofu",
+       "130 g",
+       [
+        [
+         "Legumi e derivati",
+         "Tofu",
+         130,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Olio extra vergine di oliva",
+       "1 cucchiaio"
+      ],
+      [
+       "Semi di zucca",
+       "10 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Semi di zucca",
+         10,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Rucola (cruda)",
+       "50 g",
+       [
+        [
+         "Verdura",
+         "Rucola",
+         50,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Succo di limone",
+       "mezzo limone",
+       [
+        [
+         "Frutta",
+         "Limoni",
+         0.5,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Cipolla",
+       "1 piccola",
+       [
+        [
+         "Verdura",
+         "Cipolle",
+         1,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Salvia",
+       "4 foglie"
+      ],
+      [
+       "Noce moscata",
+       "un pizzico"
+      ],
+      [
+       "Sale",
+       "q.b."
       ]
      ],
      [
-      "Zucca",
-      "250 g",
-      [
-       [
-        "Verdura",
-        "Zucca",
-        250,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Tofu",
-      "130 g",
-      [
-       [
-        "Legumi e derivati",
-        "Tofu",
-        130,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Olio extra vergine di oliva",
-      "1 cucchiaio"
-     ],
-     [
-      "Semi di zucca",
-      "10 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Semi di zucca",
-        10,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Rucola (cruda)",
-      "50 g",
-      [
-       [
-        "Verdura",
-        "Rucola",
-        50,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Succo di limone",
-      "mezzo limone",
-      [
-       [
-        "Frutta",
-        "Limoni",
-        0.5,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Cipolla",
-      "1 piccola",
-      [
-       [
-        "Verdura",
-        "Cipolle",
-        1,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Salvia",
-      "4 foglie"
-     ],
-     [
-      "Noce moscata",
-      "un pizzico"
-     ],
-     [
-      "Sale",
-      "q.b."
+      "Taglia la zucca a dadini e la cipolla a fettine. Cuocile in una padella con il cucchiaio d'olio e la salvia per quindici minuti con un mestolo d'acqua, finché la zucca si sfalda.",
+      "Schiaccia metà della zucca con la forchetta per fare una crema, aggiungi noce moscata e sale.",
+      "In un'altra padella antiaderente rosola il tofu a dadini per otto minuti, senza grassi aggiunti.",
+      "Lessa la pasta per dieci minuti circa, scolala e mantecala con la crema di zucca. Completa con tofu, semi di zucca e rucola al limone."
      ]
-    ],
-    [
-     "Taglia la zucca a dadini e la cipolla a fettine. Cuocile in una padella con il cucchiaio d'olio e la salvia per quindici minuti con un mestolo d'acqua, finché la zucca si sfalda.",
-     "Schiaccia metà della zucca con la forchetta per fare una crema, aggiungi noce moscata e sale.",
-     "In un'altra padella antiaderente rosola il tofu a dadini per otto minuti, senza grassi aggiunti.",
-     "Lessa la pasta per dieci minuti circa, scolala e mantecala con la crema di zucca. Completa con tofu, semi di zucca e rucola al limone."
     ]
    ],
    [
@@ -1618,241 +1683,243 @@
   ],
   [
    "Domenica 25 ottobre",
-   "1 mela, 1 cachi e 100 g di uva",
+   "Frutta del giorno: 1 mela, 1 cachi e 100 g di uva",
    [
-    "Pranzo",
-    "Orzotto cremoso ai funghi con tofu e cavolo nero",
-    "elaborata",
-    45,
     [
+     "Pranzo",
+     "Orzotto cremoso ai funghi con tofu e cavolo nero",
+     "elaborata",
+     45,
      [
-      "Orzo perlato",
-      "130 g",
       [
+       "Orzo perlato",
+       "130 g",
        [
-        "Cereali e farine",
-        "Orzo",
-        130,
-        "g"
+        [
+         "Cereali e farine",
+         "Orzo",
+         130,
+         "g"
+        ]
        ]
+      ],
+      [
+       "Funghi",
+       "250 g",
+       [
+        [
+         "Verdura",
+         "Funghi",
+         250,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Tofu",
+       "130 g",
+       [
+        [
+         "Legumi e derivati",
+         "Tofu",
+         130,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Cavolo nero",
+       "150 g",
+       [
+        [
+         "Verdura",
+         "Cavolo nero",
+         150,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Olio extra vergine di oliva",
+       "1 cucchiaio"
+      ],
+      [
+       "Mandorle",
+       "15 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Mandorle",
+         15,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Cipolla",
+       "1 piccola",
+       [
+        [
+         "Verdura",
+         "Cipolle",
+         1,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Succo di limone",
+       "mezzo limone",
+       [
+        [
+         "Frutta",
+         "Limoni",
+         0.5,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Aglio",
+       "1 spicchio",
+       [
+        [
+         "Verdura",
+         "Aglio",
+         1,
+         "spicchi"
+        ]
+       ]
+      ],
+      [
+       "Prezzemolo",
+       "un ciuffo"
+      ],
+      [
+       "Sale",
+       "q.b."
       ]
      ],
      [
-      "Funghi",
-      "250 g",
-      [
-       [
-        "Verdura",
-        "Funghi",
-        250,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Tofu",
-      "130 g",
-      [
-       [
-        "Legumi e derivati",
-        "Tofu",
-        130,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Cavolo nero",
-      "150 g",
-      [
-       [
-        "Verdura",
-        "Cavolo nero",
-        150,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Olio extra vergine di oliva",
-      "1 cucchiaio"
-     ],
-     [
-      "Mandorle",
-      "15 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Mandorle",
-        15,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Cipolla",
-      "1 piccola",
-      [
-       [
-        "Verdura",
-        "Cipolle",
-        1,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Succo di limone",
-      "mezzo limone",
-      [
-       [
-        "Frutta",
-        "Limoni",
-        0.5,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Aglio",
-      "1 spicchio",
-      [
-       [
-        "Verdura",
-        "Aglio",
-        1,
-        "spicchi"
-       ]
-      ]
-     ],
-     [
-      "Prezzemolo",
-      "un ciuffo"
-     ],
-     [
-      "Sale",
-      "q.b."
+      "Fai appassire la cipolla tritata nel cucchiaio d'olio per cinque minuti, poi tosta l'orzo per due minuti.",
+      "Aggiungi un mestolo alla volta circa ottocento millilitri di brodo vegetale caldo o acqua salata e cuoci per trenta minuti circa, mescolando, finché l'orzo è cremoso.",
+      "In parallelo cuoci in padella antiaderente i funghi con l'aglio per otto minuti, poi il tofu a dadini per sei minuti e il cavolo nero a strisce per otto minuti con un goccio d'acqua.",
+      "Unisci tutto all'orzo, completa con prezzemolo e il succo di mezzo limone, e cospargi con le mandorle tritate. Il limone aiuta l'assorbimento del ferro."
      ]
     ],
     [
-     "Fai appassire la cipolla tritata nel cucchiaio d'olio per cinque minuti, poi tosta l'orzo per due minuti.",
-     "Aggiungi un mestolo alla volta circa ottocento millilitri di brodo vegetale caldo o acqua salata e cuoci per trenta minuti circa, mescolando, finché l'orzo è cremoso.",
-     "In parallelo cuoci in padella antiaderente i funghi con l'aglio per otto minuti, poi il tofu a dadini per sei minuti e il cavolo nero a strisce per otto minuti con un goccio d'acqua.",
-     "Unisci tutto all'orzo, completa con prezzemolo e il succo di mezzo limone, e cospargi con le mandorle tritate. Il limone aiuta l'assorbimento del ferro."
-    ]
-   ],
-   [
-    "Cena",
-    "Cous cous integrale con ceci speziati, carote e rucola",
-    "semplice",
-    20,
-    [
+     "Cena",
+     "Cous cous integrale con ceci speziati, carote e rucola",
+     "semplice",
+     20,
      [
-      "Cous cous integrale",
-      "100 g",
       [
+       "Cous cous integrale",
+       "100 g",
        [
-        "Cereali e farine",
-        "Cous cous",
-        100,
-        "g"
+        [
+         "Cereali e farine",
+         "Cous cous",
+         100,
+         "g"
+        ]
        ]
+      ],
+      [
+       "Ceci in barattolo",
+       "1 barattolo e mezzo (360 g sgocciolati)",
+       [
+        [
+         "Legumi e derivati",
+         "Ceci in barattolo",
+         1.5,
+         "barattolo"
+        ]
+       ]
+      ],
+      [
+       "Carote",
+       "200 g",
+       [
+        [
+         "Verdura",
+         "Carote",
+         200,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Rucola",
+       "60 g",
+       [
+        [
+         "Verdura",
+         "Rucola",
+         60,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Olio extra vergine di oliva",
+       "1 cucchiaio"
+      ],
+      [
+       "Tahin",
+       "10 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Tahin",
+         10,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Semi di lino macinati",
+       "10 g",
+       [
+        [
+         "Frutta secca e semi",
+         "Semi di lino",
+         10,
+         "g"
+        ]
+       ]
+      ],
+      [
+       "Succo di limone",
+       "mezzo limone",
+       [
+        [
+         "Frutta",
+         "Limoni",
+         0.5,
+         "pz"
+        ]
+       ]
+      ],
+      [
+       "Cumino in polvere",
+       "1 cucchiaino"
+      ],
+      [
+       "Curcuma",
+       "mezzo cucchiaino"
+      ],
+      [
+       "Sale",
+       "q.b."
       ]
      ],
      [
-      "Ceci in barattolo",
-      "1 barattolo e mezzo (360 g sgocciolati)",
-      [
-       [
-        "Legumi e derivati",
-        "Ceci in barattolo",
-        1.5,
-        "barattolo"
-       ]
-      ]
-     ],
-     [
-      "Carote",
-      "200 g",
-      [
-       [
-        "Verdura",
-        "Carote",
-        200,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Rucola",
-      "60 g",
-      [
-       [
-        "Verdura",
-        "Rucola",
-        60,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Olio extra vergine di oliva",
-      "1 cucchiaio"
-     ],
-     [
-      "Tahin",
-      "10 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Tahin",
-        10,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Semi di lino macinati",
-      "10 g",
-      [
-       [
-        "Frutta secca e semi",
-        "Semi di lino",
-        10,
-        "g"
-       ]
-      ]
-     ],
-     [
-      "Succo di limone",
-      "mezzo limone",
-      [
-       [
-        "Frutta",
-        "Limoni",
-        0.5,
-        "pz"
-       ]
-      ]
-     ],
-     [
-      "Cumino in polvere",
-      "1 cucchiaino"
-     ],
-     [
-      "Curcuma",
-      "mezzo cucchiaino"
-     ],
-     [
-      "Sale",
-      "q.b."
+      "Versa il cous cous in una ciotola, coprilo con acqua bollente salata in pari volume e lascialo riposare coperto per cinque minuti; poi sgranalo con la forchetta.",
+      "Taglia le carote a bastoncini e saltale in padella con il cucchiaio d'olio, cumino e curcuma per otto minuti. Aggiungi i ceci sciacquati e scaldali per cinque minuti.",
+      "Diluisci il tahin con il succo di mezzo limone e un po' d'acqua fino a ottenere una salsa fluida.",
+      "Servi il cous cous con ceci e carote, la rucola cruda, la salsa al tahin e i semi di lino macinati."
      ]
-    ],
-    [
-     "Versa il cous cous in una ciotola, coprilo con acqua bollente salata in pari volume e lascialo riposare coperto per cinque minuti; poi sgranalo con la forchetta.",
-     "Taglia le carote a bastoncini e saltale in padella con il cucchiaio d'olio, cumino e curcuma per otto minuti. Aggiungi i ceci sciacquati e scaldali per cinque minuti.",
-     "Diluisci il tahin con il succo di mezzo limone e un po' d'acqua fino a ottenere una salsa fluida.",
-     "Servi il cous cous con ceci e carote, la rucola cruda, la salsa al tahin e i semi di lino macinati."
     ]
    ],
    [
