@@ -1,6 +1,6 @@
 {
  "formato": 2,
- "titolo": "Settimana dal 26 ottobre al 1° novembre 2026",
+ "titolo": "Piano vegano · 26 ottobre–1 novembre",
  "sottotitolo": "Pranzo e cena per 1 persona · colazione 200 g di bevanda di soia · merenda 50 g di yogurt di soia",
  "colazione": [
   [
@@ -40,34 +40,44 @@
  ],
  "fisse": [
   [
-   "Vitamina B12",
-   "Integra vitamina B12 ogni giorno, secondo le indicazioni del medico o del farmacista."
+   "Da tenere d'occhio",
+   [
+    [
+     "Integratore di vitamina B12",
+     "25–100 µg al giorno oppure 2000 µg a settimana"
+    ],
+    [
+     "Acqua minerale ricca di calcio",
+     "oltre 300 mg per litro",
+     "la leva più semplice per arrivare a 1000 mg al giorno"
+    ]
+   ]
   ]
  ],
  "promemoria": [
   [
-   "Legumi in barattolo",
-   "Sciacquare",
-   "Sciacqua ceci e fagioli sotto l'acqua corrente prima di usarli.",
+   "Il giorno prima",
+   "tenere pronti i legumi in barattolo",
+   "sciacquarli e scolarli prima dell'uso",
    null
   ],
   [
-   "Calzone",
-   "Lievitazione",
-   "Venerdì sera l'impasto del calzone lievita un'ora: prepara prima la farcitura.",
+   "Venerdì",
+   "preparare l'impasto del calzone",
+   "lievita un'ora: impastalo prima di fare la farcitura",
    4
   ],
   [
    "Sabato",
-   "Involtini di verza",
-   "Sbollenta le foglie di verza prima di preparare il ripieno, così non si rompono.",
+   "sbollentare le foglie di verza",
+   "così non si rompono quando arrotoli gli involtini",
    5
   ]
  ],
  "ricette": [
   [
    "Lunedì 26 ottobre",
-   "1 mela, 1 pera e 150 g di uva",
+   "Frutta del giorno: 1 mela, 1 pera e 150 g di uva",
    [
     [
      "Pranzo",
@@ -287,7 +297,7 @@
   ],
   [
    "Martedì 27 ottobre",
-   "1 cachi, 1 mela e 150 g di uva",
+   "Frutta del giorno: 1 cachi, 1 mela e 150 g di uva",
    [
     [
      "Pranzo",
@@ -554,7 +564,7 @@
   ],
   [
    "Mercoledì 28 ottobre",
-   "1 pera, mezza melagrana e 1 mela",
+   "Frutta del giorno: 1 pera, mezza melagrana e 1 mela",
    [
     [
      "Pranzo",
@@ -790,7 +800,7 @@
   ],
   [
    "Giovedì 29 ottobre",
-   "1 cachi, 1 pera e 150 g di uva",
+   "Frutta del giorno: 1 cachi, 1 pera e 150 g di uva",
    [
     [
      "Pranzo",
@@ -1033,7 +1043,7 @@
   ],
   [
    "Venerdì 30 ottobre",
-   "2 mele e mezza melagrana",
+   "Frutta del giorno: 2 mele e mezza melagrana",
    [
     [
      "Pranzo",
@@ -1279,7 +1289,7 @@
   ],
   [
    "Sabato 31 ottobre",
-   "1 pera, 1 cachi e 1 mela",
+   "Frutta del giorno: 1 pera, 1 cachi e 1 mela",
    [
     [
      "Pranzo",
@@ -1514,7 +1524,7 @@
   ],
   [
    "Domenica 1 novembre",
-   "1 mela, 1 pera e mezza melagrana",
+   "Frutta del giorno: 1 mela, 1 pera e mezza melagrana",
    [
     [
      "Pranzo",

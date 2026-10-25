@@ -1,6 +1,6 @@
 {
  "formato": 2,
- "titolo": "Settimana dal 2 all'8 novembre 2026",
+ "titolo": "Piano vegano · 2–8 novembre",
  "sottotitolo": "Pranzo e cena per 1 persona · colazione 200 g di bevanda di soia · merenda 50 g di yogurt di soia",
  "colazione": [
   [
@@ -41,34 +41,44 @@
  ],
  "fisse": [
   [
-   "Vitamina B12",
-   "Integra vitamina B12 ogni giorno, secondo le indicazioni del medico o del farmacista."
+   "Da tenere d'occhio",
+   [
+    [
+     "Integratore di vitamina B12",
+     "25–100 µg al giorno oppure 2000 µg a settimana"
+    ],
+    [
+     "Acqua minerale ricca di calcio",
+     "oltre 300 mg per litro",
+     "la leva più semplice per arrivare a 1000 mg al giorno"
+    ]
+   ]
   ]
  ],
  "promemoria": [
   [
-   "Legumi in barattolo",
-   "Sciacquare",
-   "Sciacqua ceci e fagioli sotto l'acqua corrente prima di usarli.",
+   "Il giorno prima",
+   "tenere pronti i legumi in barattolo",
+   "sciacquarli e scolarli prima dell'uso",
    null
   ],
   [
-   "Polenta",
-   "Riposo",
-   "La polenta della cena di martedì va cotta in anticipo e fatta raffreddare.",
+   "Martedì",
+   "cuocere la polenta in anticipo",
+   "va fatta raffreddare prima di tagliarla a strati",
    1
   ],
   [
-   "Tortillas",
-   "Impasto",
-   "L'impasto dei burritos riposa venti minuti: preparalo prima del ripieno.",
+   "Sabato",
+   "preparare l'impasto dei burritos",
+   "riposa venti minuti prima di stenderlo",
    5
   ]
  ],
  "ricette": [
   [
    "Lunedì 2 novembre",
-   "1 mela, 1 pera e 2 mandarini",
+   "Frutta del giorno: 1 mela, 1 pera e 2 mandarini",
    [
     [
      "Pranzo",
@@ -312,7 +322,7 @@
   ],
   [
    "Martedì 3 novembre",
-   "1 cachi, 1 mela e 1 arancia",
+   "Frutta del giorno: 1 cachi, 1 mela e 1 arancia",
    [
     [
      "Pranzo",
@@ -580,7 +590,7 @@
   ],
   [
    "Mercoledì 4 novembre",
-   "1 pera, mezza melagrana e 2 mandarini",
+   "Frutta del giorno: 1 pera, mezza melagrana e 2 mandarini",
    [
     [
      "Pranzo",
@@ -843,7 +853,7 @@
   ],
   [
    "Giovedì 5 novembre",
-   "1 mela, 1 arancia e 100 g di uva",
+   "Frutta del giorno: 1 mela, 1 arancia e 100 g di uva",
    [
     [
      "Pranzo",
@@ -1082,7 +1092,7 @@
   ],
   [
    "Venerdì 6 novembre",
-   "1 cachi, 1 pera e 2 clementine",
+   "Frutta del giorno: 1 cachi, 1 pera e 2 clementine",
    [
     [
      "Pranzo",
@@ -1322,7 +1332,7 @@
   ],
   [
    "Sabato 7 novembre",
-   "1 mela, 1 arancia e mezza melagrana",
+   "Frutta del giorno: 1 mela, 1 arancia e mezza melagrana",
    [
     [
      "Pranzo",
@@ -1561,7 +1571,7 @@
   ],
   [
    "Domenica 8 novembre",
-   "1 pera, 1 mela e 2 mandarini",
+   "Frutta del giorno: 1 pera, 1 mela e 2 mandarini",
    [
     [
      "Pranzo",

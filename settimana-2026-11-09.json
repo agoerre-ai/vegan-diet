@@ -1,6 +1,6 @@
 {
  "formato": 2,
- "titolo": "Settimana dal 9 al 15 novembre 2026",
+ "titolo": "Piano vegano · 9–15 novembre",
  "sottotitolo": "Pranzo e cena per 1 persona · colazione 200 g di bevanda di soia · merenda 50 g di yogurt di soia",
  "colazione": [
   [
@@ -39,34 +39,44 @@
  ],
  "fisse": [
   [
-   "Vitamina B12",
-   "Integra vitamina B12 ogni giorno, secondo le indicazioni del medico o del farmacista."
+   "Da tenere d'occhio",
+   [
+    [
+     "Integratore di vitamina B12",
+     "25–100 µg al giorno oppure 2000 µg a settimana"
+    ],
+    [
+     "Acqua minerale ricca di calcio",
+     "oltre 300 mg per litro",
+     "la leva più semplice per arrivare a 1000 mg al giorno"
+    ]
+   ]
   ]
  ],
  "promemoria": [
   [
-   "Legumi in barattolo",
-   "Sciacquare",
-   "Sciacqua ceci e fagioli sotto l'acqua corrente prima di usarli.",
+   "Il giorno prima",
+   "tenere pronti i legumi in barattolo",
+   "sciacquarli e scolarli prima dell'uso",
    null
   ],
   [
-   "Conchiglioni",
-   "Ripieno",
-   "I conchiglioni vanno lessati cinque minuti meno del tempo della confezione, poi cuociono in forno.",
+   "Lunedì",
+   "lessare i conchiglioni cinque minuti in meno",
+   "finiscono la cottura in forno",
    0
   ],
   [
-   "Stufato",
-   "Cottura lenta",
-   "Lo stufato di domenica si addensa a fuoco dolce: non fretta, venticinque minuti.",
+   "Domenica",
+   "stufato a fuoco dolce",
+   "venticinque minuti, finché si addensa",
    6
   ]
  ],
  "ricette": [
   [
    "Lunedì 9 novembre",
-   "1 mela, 2 mandarini e 1 pera",
+   "Frutta del giorno: 1 mela, 2 mandarini e 1 pera",
    [
     [
      "Pranzo",
@@ -313,7 +323,7 @@
   ],
   [
    "Martedì 10 novembre",
-   "1 cachi, 1 arancia e 1 mela",
+   "Frutta del giorno: 1 cachi, 1 arancia e 1 mela",
    [
     [
      "Pranzo",
@@ -584,7 +594,7 @@
   ],
   [
    "Mercoledì 11 novembre",
-   "1 pera, 2 clementine e mezza melagrana",
+   "Frutta del giorno: 1 pera, 2 clementine e mezza melagrana",
    [
     [
      "Pranzo",
@@ -831,7 +841,7 @@
   ],
   [
    "Giovedì 12 novembre",
-   "1 mela, 1 arancia e 100 g di uva",
+   "Frutta del giorno: 1 mela, 1 arancia e 100 g di uva",
    [
     [
      "Pranzo",
@@ -1078,7 +1088,7 @@
   ],
   [
    "Venerdì 13 novembre",
-   "1 cachi, 1 pera e 2 mandarini",
+   "Frutta del giorno: 1 cachi, 1 pera e 2 mandarini",
    [
     [
      "Pranzo",
@@ -1341,7 +1351,7 @@
   ],
   [
    "Sabato 14 novembre",
-   "1 mela, 1 arancia e mezza melagrana",
+   "Frutta del giorno: 1 mela, 1 arancia e mezza melagrana",
    [
     [
      "Pranzo",
@@ -1576,7 +1586,7 @@
   ],
   [
    "Domenica 15 novembre",
-   "1 pera, 2 clementine e 1 mela",
+   "Frutta del giorno: 1 pera, 2 clementine e 1 mela",
    [
     [
      "Pranzo",
