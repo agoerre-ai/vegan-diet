@@ -298,26 +298,26 @@
       "Riempili con il ripieno e disponili in una teglia su uno strato di passata, copri con altra passata.",
       "Cuoci in forno a centottanta gradi per venti minuti e servi con una spruzzata di limone crudo."
      ]
+    ]
+   ],
+   [
+    [
+     "Frutta",
+     "Mele",
+     1,
+     "pz"
     ],
     [
-     [
-      "Frutta",
-      "Mele",
-      1,
-      "pz"
-     ],
-     [
-      "Frutta",
-      "Mandarini",
-      2,
-      "pz"
-     ],
-     [
-      "Frutta",
-      "Pere",
-      1,
-      "pz"
-     ]
+     "Frutta",
+     "Mandarini",
+     2,
+     "pz"
+    ],
+    [
+     "Frutta",
+     "Pere",
+     1,
+     "pz"
     ]
    ]
   ],
@@ -569,26 +569,26 @@
       "Sciacqua i cannellini e uniscili a fine cottura, schiacciandone una parte per la cremosità.",
       "Servi con il tempeh croccante, prezzemolo, noci e limone crudo."
      ]
+    ]
+   ],
+   [
+    [
+     "Frutta",
+     "Cachi",
+     1,
+     "pz"
     ],
     [
-     [
-      "Frutta",
-      "Cachi",
-      1,
-      "pz"
-     ],
-     [
-      "Frutta",
-      "Arance",
-      1,
-      "pz"
-     ],
-     [
-      "Frutta",
-      "Mele",
-      1,
-      "pz"
-     ]
+     "Frutta",
+     "Arance",
+     1,
+     "pz"
+    ],
+    [
+     "Frutta",
+     "Mele",
+     1,
+     "pz"
     ]
    ]
   ],
@@ -816,26 +816,26 @@
       "Tosta il pane a cubetti per i crostoni.",
       "Servi con crostoni, mandorle tritate e limone crudo."
      ]
+    ]
+   ],
+   [
+    [
+     "Frutta",
+     "Pere",
+     1,
+     "pz"
     ],
     [
-     [
-      "Frutta",
-      "Pere",
-      1,
-      "pz"
-     ],
-     [
-      "Frutta",
-      "Clementine",
-      2,
-      "pz"
-     ],
-     [
-      "Frutta",
-      "Melagrane",
-      0.5,
-      "pz"
-     ]
+     "Frutta",
+     "Clementine",
+     2,
+     "pz"
+    ],
+    [
+     "Frutta",
+     "Melagrane",
+     0.5,
+     "pz"
     ]
    ]
   ],
@@ -1063,26 +1063,26 @@
       "Salta la pasta con il condimento per due minuti, aggiungendo acqua se serve.",
       "Servi con noci tritate e un'insalatina di radicchio crudo e limone."
      ]
+    ]
+   ],
+   [
+    [
+     "Frutta",
+     "Mele",
+     1,
+     "pz"
     ],
     [
-     [
-      "Frutta",
-      "Mele",
-      1,
-      "pz"
-     ],
-     [
-      "Frutta",
-      "Arance",
-      1,
-      "pz"
-     ],
-     [
-      "Frutta",
-      "Uva",
-      100,
-      "g"
-     ]
+     "Frutta",
+     "Arance",
+     1,
+     "pz"
+    ],
+    [
+     "Frutta",
+     "Uva",
+     100,
+     "g"
     ]
    ]
   ],
@@ -1326,26 +1326,26 @@
       "Sciacqua i borlotti e uniscili a fine cottura.",
       "Servi con il tofu croccante, noci tritate e limone crudo."
      ]
+    ]
+   ],
+   [
+    [
+     "Frutta",
+     "Cachi",
+     1,
+     "pz"
     ],
     [
-     [
-      "Frutta",
-      "Cachi",
-      1,
-      "pz"
-     ],
-     [
-      "Frutta",
-      "Pere",
-      1,
-      "pz"
-     ],
-     [
-      "Frutta",
-      "Mandarini",
-      2,
-      "pz"
-     ]
+     "Frutta",
+     "Pere",
+     1,
+     "pz"
+    ],
+    [
+     "Frutta",
+     "Mandarini",
+     2,
+     "pz"
     ]
    ]
   ],
@@ -1561,26 +1561,26 @@
       "Cuoci le penne al dente e mescolale alla crema fuori dal fuoco.",
       "Servi con i ceci croccanti sopra."
      ]
+    ]
+   ],
+   [
+    [
+     "Frutta",
+     "Mele",
+     1,
+     "pz"
     ],
     [
-     [
-      "Frutta",
-      "Mele",
-      1,
-      "pz"
-     ],
-     [
-      "Frutta",
-      "Arance",
-      1,
-      "pz"
-     ],
-     [
-      "Frutta",
-      "Melagrane",
-      0.5,
-      "pz"
-     ]
+     "Frutta",
+     "Arance",
+     1,
+     "pz"
+    ],
+    [
+     "Frutta",
+     "Melagrane",
+     0.5,
+     "pz"
     ]
    ]
   ],
@@ -1880,26 +1880,26 @@
       "Sciacqua i cannellini e uniscili per gli ultimi cinque minuti.",
       "Servi con il finocchio crudo a fettine, il limone, i semi di zucca e i semi di lino macinati."
      ]
+    ]
+   ],
+   [
+    [
+     "Frutta",
+     "Pere",
+     1,
+     "pz"
     ],
     [
-     [
-      "Frutta",
-      "Pere",
-      1,
-      "pz"
-     ],
-     [
-      "Frutta",
-      "Clementine",
-      2,
-      "pz"
-     ],
-     [
-      "Frutta",
-      "Mele",
-      1,
-      "pz"
-     ]
+     "Frutta",
+     "Clementine",
+     2,
+     "pz"
+    ],
+    [
+     "Frutta",
+     "Mele",
+     1,
+     "pz"
     ]
    ]
   ]
